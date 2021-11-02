@@ -20,4 +20,7 @@ The word length is then printed below the text box.
 
 ##### Examples 
 ![sample1](https://user-images.githubusercontent.com/32310672/139942213-17032106-b2e8-4493-a1e5-f3878ec8dec0.png)
+
+
+
 ![sample2](https://user-images.githubusercontent.com/32310672/139942238-dd61dd33-2f06-4e7c-a363-c6dd544cf86d.png)
