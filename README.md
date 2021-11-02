@@ -10,3 +10,14 @@ The results have the year, how many movies were released that year, and a list o
 Because movieCount.sh was written for the analysis beforehand, callScript.awk simply calls the shell script to run. 
 
 To run, download the repository, change directory in your terminal to 3.1 and simply enter: make.
+
+#### 3.2
+The HTML file calls a javascript file whenever the "submit" button is pressed.
+
+Whatever text is in the text box is then counted, exclusing whitepace and including punctuation/symbols. 
+
+The word length is then printed below the text box. 
+
+##### Examples 
+![sample1](https://user-images.githubusercontent.com/32310672/139942213-17032106-b2e8-4493-a1e5-f3878ec8dec0.png)
+![sample2](https://user-images.githubusercontent.com/32310672/139942238-dd61dd33-2f06-4e7c-a363-c6dd544cf86d.png)
